@@ -1,16 +1,20 @@
-## Hi there 👋
+### Oliver Huang
 
-<!--
-**oliverhuangcode/oliverhuangcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer in Melbourne, originally from Auckland. Studied at AUT and Monash, ran projects for the Monash Association of Coding, and joining Atlassian as a graduate in 2027.
 
-Here are some ideas to get you started:
+```text
+BASE   MELBOURNE, AU
+FROM   AUCKLAND, NZ
+NEXT   ATLASSIAN · GRADUATE SWE · 2027
+NOW    building a small suite of self-hosted apps
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Building**
+
+- **places**: turns TikTok and Instagram food reels into a saved list and map
+- **go-gateway**: one OpenAI-compatible endpoint over free model providers, with failover
+- **kb**: a Markdown knowledge base that Claude keeps up to date from my chats
+
+**Stack**: Go · TypeScript · React · Next.js · Postgres · Docker
+
+[olivrhuang.com](https://www.olivrhuang.com) · [LinkedIn](https://www.linkedin.com/in/oliverhuang03/)
