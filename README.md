@@ -6,15 +6,6 @@ Software engineer in Melbourne, originally from Auckland. Studied at AUT and Mon
 BASE   MELBOURNE, AU
 FROM   AUCKLAND, NZ
 NEXT   ATLASSIAN · GRADUATE SWE · 2027
-NOW    building a small suite of self-hosted apps
 ```
-
-**Building**
-
-- **places**: turns TikTok and Instagram food reels into a saved list and map
-- **go-gateway**: one OpenAI-compatible endpoint over free model providers, with failover
-- **kb**: a Markdown knowledge base that Claude keeps up to date from my chats
-
-**Stack**: Go · TypeScript · React · Next.js · Postgres · Docker
 
 [olivrhuang.com](https://www.olivrhuang.com) · [LinkedIn](https://www.linkedin.com/in/oliverhuang03/)
